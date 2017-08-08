@@ -1,4 +1,4 @@
 
+vamos adicionar mais isso
+vou adicionar mais uma linha (commit 3)
 
-vamos mudar essa terceira linha
-e adicionar mais uma coisa
